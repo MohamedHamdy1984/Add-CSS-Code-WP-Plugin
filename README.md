@@ -1,5 +1,5 @@
 # Add-CSS-Code-WP-Plugin
-* === Add CSS Code ===
+
 * Contributors: mohamdy
 * Donate link: https://example.com/
 * Tags: css, style

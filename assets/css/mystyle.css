@@ -1,0 +1,53 @@
+/* import & Apply google font for h2 title at the begining of the page */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Rubik+Burned&family=Work+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,800;1,700&display=swap');
+
+/*********************************** General Style ***********************************/
+
+
+.plugin-special-font{
+    color: indigo;
+    font-family: 'Rubik Burned', system-ui;
+}
+
+/*********************************** adminPage Style ***********************************/
+
+/* for modal  */
+
+.modal-body .form-table th{
+    width: 0 !important;
+}
+
+.modal-footer p.submit input.button {
+    padding: .3rem 1rem;
+    font-size: 1rem;
+    border-radius: 15px;
+}
+
+
+/* Post types Table */
+.add-css-code-table-posts table{
+    margin-bottom: 2px;
+}
+.add-css-code-table-posts .btn-wrap{
+    text-align: right;
+}
+.add-css-code-table-posts .btn-wrap button{
+    margin-right: 10px;
+}
+
+
+
+
+    /*********************************** SubPages Style ***********************************/
+#add-css-code-subpage-page textarea{
+    min-height: 12rem;
+    width: 75%;
+}
+
+#add-css-code-subpage-page #posts-code-textarea .CodeMirror {
+  border: 1px solid #2271b171;
+  border-radius: 5px;
+}
+#add-css-code-subpage-page #posts-code-textarea .CodeMirror .CodeMirror-code {
+    padding-top: 20px;
+}

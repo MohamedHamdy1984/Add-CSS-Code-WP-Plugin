@@ -1,14 +1,14 @@
 # Add-CSS-Code-WP-Plugin
-=== Add CSS Code ===
-Contributors: mohamdy
-Donate link: https://example.com/
-Tags: css, style
-Requires at least: 5.0
-Tested up to: 6.0
-Stable tag: 1.0.0
-Requires PHP: 7.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+* === Add CSS Code ===
+* Contributors: mohamdy
+* Donate link: https://example.com/
+* Tags: css, style
+* Requires at least: 5.0
+* Tested up to: 6.0
+* Stable tag: 1.0.0
+* Requires PHP: 7.0
+* License: GPLv2 or later
+* License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 
 Add CSS Code plugin allows you to easily add custom CSS code to any post type without any changes to the theme itself.
